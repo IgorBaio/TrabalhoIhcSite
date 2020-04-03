@@ -1,0 +1,63 @@
+
+	body{
+		background-image: url(img/3.jpg);
+
+	}
+	.apresent{
+		color: lightblue;
+		text-shadow: 3px  2px black;	
+	}
+	.mage{
+		width: 90px;
+		height: 90px;
+	}
+	ul{
+		color: white;
+		font-weight: bold;
+		text-shadow: 3px  2px black;
+	}
+	.apresenta{
+		color: red;
+		text-shadow: 3px  2px black;	
+	}
+	.vougan{
+		width: 500px;
+		height: 500px;
+		}
+
+	p{
+		color: green;
+		font-weight: bold;
+		text-shadow: 3px  2px black;
+
+	}	
+	footer{
+		text-align: center;
+	}
+	h2{
+		color: lightgreen;
+	}
+	a{
+		color: yellow;
+	}
+	a:hover{
+		color:white !important;
+		background-color: blueviolet !important;
+	}
+	iframe{
+		width: 500px;
+		height: 500px;
+		
+
+	}
+	span{
+		color: yellow;
+	}
+	.list{
+		color: green;
+		font-weight: bold;
+		text-shadow: 3px  2px black;
+	}
+	.olist{
+		color: red;
+	}
